@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gituser12981u2&show_icons=true&locale=en&layout=compact" alt="gituser12981u2" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gituser12981u2&show_icons=true&locale=en" alt="gituser12981u2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gituser12981u2&show_icons=true&locale=en" alt="gituser12981u2" /></p>
