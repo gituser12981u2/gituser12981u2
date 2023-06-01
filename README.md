@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BioTech Discord Bot](https://github.com/gituser12981u2/MathematicalExpressionParser)
 
-- 🌱 I’m currently learning **x86 Assembly, Javascript, and Python**
+- 🌱 I’m currently learning **Rust, x86 Assembly, Typescript**
 
 <h3 align="left">Connect with me:</h3>
 - Don't
