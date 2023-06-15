@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gituser12981u2&label=Profile%20views&color=0e75b6&style=flat" alt="gituser12981u2" /> </p>
 
-- 🔭 I’m currently working on [BioTech Discord Bot](https://github.com/gituser12981u2/MathematicalExpressionParser)
+- 🔭 I’m currently working on [Chess Engine]([https://github.com/gituser12981u2/MathematicalExpressionParser](https://github.com/gituser12981u2/Chess-bot))
 
 - 🌱 I’m currently learning **Rust, x86 Assembly, Typescript**
 
